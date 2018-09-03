@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="gazon-povz" createEmptyFolders="true" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" createEmptyFolders="true">
     <serverData>
+      <paths name="ALL_POVZ">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="Povzik">
         <serverdata>
           <mappings>
@@ -38,6 +45,13 @@
         </serverdata>
       </paths>
       <paths name="dstyle.tmweb.ru ">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="flebolog">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -248,6 +262,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
