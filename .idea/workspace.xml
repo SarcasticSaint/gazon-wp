@@ -18,8 +18,8 @@
       <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/landing/less/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="1993" column="0" lean-forward="true" selection-start-line="1993" selection-start-column="0" selection-end-line="1993" selection-end-column="0" />
+            <state relative-caret-position="487">
+              <caret line="1994" column="12" lean-forward="false" selection-start-line="1994" selection-start-column="12" selection-end-line="1994" selection-end-column="12" />
               <folding>
                 <element signature="e#168#198#0" expanded="false" />
                 <element signature="e#203#272#0" expanded="false" />
@@ -751,12 +751,12 @@
       <workItem from="1517173583550" duration="2083000" />
       <workItem from="1517185811897" duration="935000" />
       <workItem from="1517786165925" duration="23000" />
-      <workItem from="1536009178490" duration="145000" />
+      <workItem from="1536009178490" duration="281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79076000" />
+    <option name="totallyTimeSpent" value="79212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -3857,8 +3857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/landing/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="1993" column="0" lean-forward="true" selection-start-line="1993" selection-start-column="0" selection-end-line="1993" selection-end-column="0" />
+        <state relative-caret-position="487">
+          <caret line="1994" column="12" lean-forward="false" selection-start-line="1994" selection-start-column="12" selection-end-line="1994" selection-end-column="12" />
           <folding>
             <element signature="e#168#198#0" expanded="false" />
             <element signature="e#203#272#0" expanded="false" />
