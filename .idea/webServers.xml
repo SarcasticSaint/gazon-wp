@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5cb61eb2-c58b-4ae2-ab03-a39bb13690dd" name="gazon-povz" url="http://orion.lite-host.in">
+        <fileTransfer host="orion.lite-host.in" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8ed8b218-a2aa-459c-af51-7fd1bb3b0718" name="gazon" url="http://vh70.timeweb.ru">
+        <fileTransfer host="vh70.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

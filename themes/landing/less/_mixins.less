@@ -1,0 +1,50 @@
+.font-face(@font-name){
+  @font-face {
+    font-family: "@{font-name}";
+    src: url("../fonts/@{font-name}/@{font-name}.eot");
+    src: url("../fonts/@{font-name}/@{font-name}.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/@{font-name}/@{font-name}.woff") format("woff"),
+    url("../fonts/@{font-name}/@{font-name}.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+  }
+}
+.all-wdth-bg(@bg) {
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    left: -999em;
+    right: -999em;
+    display: block;
+    //left: 0;
+    //right: 0;
+    top: 0;
+    bottom: 0;
+    background: @bg;
+    z-index: -1;
+  }
+}
+.clearfix {
+  &:after {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+    height: 0;
+  }
+}
+.placeholder(@color) {
+  ::-webkit-input-placeholder {color:@color;opacity: 1!important;}
+  ::-moz-placeholder          {color:@color;opacity: 1!important;}/* Firefox 19+ */
+  :-moz-placeholder           {color:@color;opacity: 1!important;}/* Firefox 18- */
+  :-ms-input-placeholder      {color:@color;opacity: 1!important;}
+}
+.i-b {
+  display: inline-block;
+  margin-left: -.36em;
+  vertical-align: top;
+  &:first-child {
+    margin-left: 0;
+  }
+}
