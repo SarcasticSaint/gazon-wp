@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/themes/landing/less/style.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="1998" column="0" lean-forward="true" selection-start-line="1998" selection-start-column="0" selection-end-line="1998" selection-end-column="0" />
+              <caret line="2000" column="13" lean-forward="false" selection-start-line="2000" selection-start-column="13" selection-end-line="2000" selection-end-column="13" />
               <folding>
                 <element signature="e#168#198#0" expanded="false" />
                 <element signature="e#203#272#0" expanded="false" />
@@ -751,12 +751,12 @@
       <workItem from="1517173583550" duration="2083000" />
       <workItem from="1517185811897" duration="935000" />
       <workItem from="1517786165925" duration="23000" />
-      <workItem from="1536009178490" duration="358000" />
+      <workItem from="1536009178490" duration="484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79289000" />
+    <option name="totallyTimeSpent" value="79415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -3858,7 +3858,7 @@
     <entry file="file://$PROJECT_DIR$/themes/landing/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="1998" column="0" lean-forward="true" selection-start-line="1998" selection-start-column="0" selection-end-line="1998" selection-end-column="0" />
+          <caret line="2000" column="13" lean-forward="false" selection-start-line="2000" selection-start-column="13" selection-end-line="2000" selection-end-column="13" />
           <folding>
             <element signature="e#168#198#0" expanded="false" />
             <element signature="e#203#272#0" expanded="false" />
